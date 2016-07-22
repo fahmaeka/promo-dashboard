@@ -1,0 +1,6 @@
+/* here you can put your own css to customize and override the theme */
+.no-border td {border:0!important; height:20px; background-color:#FFF!important;}
+#transaction_detail_modal{bottom:0!important;}
+#change_timelimit_modal{bottom:0!important;}
+/*overwrite inline datepicker*/
+.datetimepicker .datetimepicker-inline{display:none!important;}
